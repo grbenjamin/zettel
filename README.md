@@ -1,0 +1,2 @@
+# zettel
+My zettelkasten
